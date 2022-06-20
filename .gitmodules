@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bigSurvSGD"]
+	path = bigSurvSGD
+	url = https://github.com/atarkhan/bigsurvsgd
+	shallow = true
+	registered = true
